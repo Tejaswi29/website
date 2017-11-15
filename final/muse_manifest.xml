@@ -1,0 +1,138 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="skpps.org" resolutions="1x" timestamp="1510672667412">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="4233385120" ref="our-infrastructure:general-information:designers:magia-de-los-académicos:independence-day-2017:why-choose-skpps:activities:contact-us:index"/>
+    <file name="nomq_preview_master_a-master.css" crc="518024685" ref="our-infrastructure:general-information:designers:magia-de-los-académicos:independence-day-2017:why-choose-skpps:activities:contact-us:index"/>
+    <file name="our-infrastructure.css" crc="3769606635" ref="our-infrastructure"/>
+    <file name="nomq_our-infrastructure.css" crc="498355070" ref="our-infrastructure"/>
+    <file name="general-information.css" crc="4179496257" ref="general-information"/>
+    <file name="nomq_general-information.css" crc="135362885" ref="general-information"/>
+    <file name="designers.css" crc="4218869817" ref="designers"/>
+    <file name="nomq_designers.css" crc="325419766" ref="designers"/>
+    <file name="magia-de-los-acad_micos.css" crc="416480205" ref="magia-de-los-académicos"/>
+    <file name="nomq_magia-de-los-acad_micos.css" crc="22637086" ref="magia-de-los-académicos"/>
+    <file name="independence-day-2017.css" crc="3839962139" ref="independence-day-2017"/>
+    <file name="nomq_independence-day-2017.css" crc="3934777324" ref="independence-day-2017"/>
+    <file name="why-choose-skpps.css" crc="384737171" ref="why-choose-skpps"/>
+    <file name="nomq_why-choose-skpps.css" crc="3905460227" ref="why-choose-skpps"/>
+    <file name="activities.css" crc="3909055776" ref="activities"/>
+    <file name="nomq_activities.css" crc="132869187" ref="activities"/>
+    <file name="contact-us.css" crc="3887923723" ref="contact-us"/>
+    <file name="nomq_contact-us.css" crc="486989036" ref="contact-us"/>
+    <file name="index.css" crc="4196900774" ref="index"/>
+    <file name="nomq_index.css" crc="4123642067" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:why-choose-skpps:magia-de-los-académicos:our-infrastructure:activities:independence-day-2017:general-information:contact-us:designers"/>
+    <file name="museutils.js" crc="163421577" ref="index:why-choose-skpps:magia-de-los-académicos:our-infrastructure:activities:independence-day-2017:general-information:contact-us:designers"/>
+    <file name="whatinput.js" crc="86476730" ref="index:why-choose-skpps:magia-de-los-académicos:our-infrastructure:activities:independence-day-2017:general-information:contact-us:designers"/>
+    <file name="museconfig.js" crc="168988563" ref="index:why-choose-skpps:magia-de-los-académicos:our-infrastructure:activities:independence-day-2017:general-information:contact-us:designers"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:why-choose-skpps:magia-de-los-académicos:our-infrastructure:activities:independence-day-2017:general-information:contact-us:designers"/>
+    <file name="webpro.js" crc="3848665353" ref="index"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index"/>
+    <file name="touchswipe.js" crc="404375771" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index:why-choose-skpps:magia-de-los-académicos:our-infrastructure:activities:independence-day-2017:general-information:contact-us:designers"/>
+    <file name="require.js" crc="244322403" ref="index:why-choose-skpps:magia-de-los-académicos:our-infrastructure:activities:independence-day-2017:general-information:contact-us:designers"/>
+  </folder>
+  <folder name="images">
+    <file name="babaji.jpg" crc="361094255" seo="true" ref="index:why-choose-skpps:magia-de-los-académicos:our-infrastructure:activities:independence-day-2017:general-information:contact-us:designers"/>
+    <file name="logo.jpg" crc="135256093" seo="true" ref="index:why-choose-skpps:magia-de-los-académicos:our-infrastructure:activities:independence-day-2017:general-information:contact-us:designers"/>
+    <file name="home_header.png" crc="135874017" seo="true" ref="index:why-choose-skpps:magia-de-los-académicos:our-infrastructure:activities:independence-day-2017:general-information:contact-us:designers"/>
+    <file name="skpps_choose_header.png" crc="409603154" seo="true" ref="index:why-choose-skpps:magia-de-los-académicos:our-infrastructure:activities:independence-day-2017:general-information:contact-us:designers"/>
+    <file name="academics_header.png" crc="5844933" seo="true" ref="index:why-choose-skpps:magia-de-los-académicos:our-infrastructure:activities:independence-day-2017:general-information:contact-us:designers"/>
+    <file name="infrastructure_header.png" crc="245010161" seo="true" ref="index:why-choose-skpps:magia-de-los-académicos:our-infrastructure:activities:independence-day-2017:general-information:contact-us:designers"/>
+    <file name="activities_header.png" crc="21281828" seo="true" ref="index:why-choose-skpps:magia-de-los-académicos:our-infrastructure:activities:independence-day-2017:general-information:contact-us:designers"/>
+    <file name="indday_header.png" crc="221292693" seo="true" ref="index:why-choose-skpps:magia-de-los-académicos:our-infrastructure:activities:independence-day-2017:general-information:contact-us:designers"/>
+    <file name="gen_info_header.png" crc="4250603287" seo="true" ref="index:why-choose-skpps:magia-de-los-académicos:our-infrastructure:activities:independence-day-2017:general-information:contact-us:designers"/>
+    <file name="cont_us_header.png" crc="326180607" seo="true" ref="index:why-choose-skpps:magia-de-los-académicos:our-infrastructure:activities:independence-day-2017:general-information:contact-us:designers"/>
+    <file name="motto.png" crc="487528505" seo="true" ref="index:why-choose-skpps:magia-de-los-académicos:our-infrastructure:activities:independence-day-2017:general-information:contact-us:designers"/>
+    <file name="chairman-crop-u4962.jpg" crc="150732517" ref="index"/>
+    <file name="visionandmission.jpg" crc="3937531031" seo="true" ref="index"/>
+    <file name="highlight1.jpg" crc="286362007" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:why-choose-skpps:magia-de-los-académicos:our-infrastructure:activities:independence-day-2017:general-information:contact-us:designers"/>
+    <file name="ncc day.jpg" crc="4047753689" seo="true" ref="index"/>
+    <file name="uno.jpg" crc="216902634" seo="true" ref="index"/>
+    <file name="n5813115415b04.jpg" crc="382791989" seo="true" ref="index"/>
+    <file name="highlight171x45.jpg" crc="4089403786" seo="true" ref="index"/>
+    <file name="ncc day60x55.jpg" crc="3988806258" seo="true" ref="index"/>
+    <file name="uno60x54.jpg" crc="4007654306" seo="true" ref="index"/>
+    <file name="n5813115415b04-crop-u5607.jpg" crc="223395135" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="whychooseskpps.jpg" crc="3812355385" seo="true" ref="index"/>
+    <file name="more.jpg" crc="347357370" seo="true" ref="index"/>
+    <file name="academics.jpg" crc="501380911" seo="true" ref="index"/>
+    <file name="ourinfrastructure.jpg" crc="412097503" seo="true" ref="index"/>
+    <file name="activities.jpg" crc="4217632675" seo="true" ref="index"/>
+    <file name="indday.jpg" crc="448697741" seo="true" ref="index:independence-day-2017"/>
+    <file name="privipal-crop-u4974.jpg" crc="3929144593" ref="index"/>
+    <file name="card.jpg" crc="374137387" seo="true" ref="index:why-choose-skpps:magia-de-los-académicos:our-infrastructure:activities:independence-day-2017:general-information:contact-us:designers"/>
+    <file name="designfoot.png" crc="58009278" seo="true" ref="index:why-choose-skpps:magia-de-los-académicos:our-infrastructure:activities:independence-day-2017:general-information:contact-us:designers"/>
+    <file name="chairman-crop-u49622.jpg" crc="276069922" ref="index"/>
+    <file name="privipal-crop-u49742.jpg" crc="253379639" ref="index"/>
+    <file name="ncc day326x295.jpg" crc="3908286722" seo="true" ref="index"/>
+    <file name="uno339x303.jpg" crc="3772084402" seo="true" ref="index"/>
+    <file name="newswhy200x2302.jpg" crc="394489159" seo="true" ref="why-choose-skpps"/>
+    <file name="whychooseskpps_page.jpg" crc="51071605" seo="true" ref="why-choose-skpps"/>
+    <file name="whychooseskpps_page2.jpg" crc="3822660926" seo="true" ref="why-choose-skpps"/>
+    <file name="newswhy171x1965.jpg" crc="4021172933" seo="true" ref="why-choose-skpps"/>
+    <file name="acd_btn1.jpg" crc="4120424022" seo="true" ref="magia-de-los-académicos"/>
+    <file name="acd_btn3.jpg" crc="172860416" seo="true" ref="magia-de-los-académicos"/>
+    <file name="acd_btn2.jpg" crc="513237043" seo="true" ref="magia-de-los-académicos"/>
+    <file name="acd_btn5.jpg" crc="3795016342" seo="true" ref="magia-de-los-académicos"/>
+    <file name="acd_btn4.jpg" crc="328030670" seo="true" ref="magia-de-los-académicos"/>
+    <file name="newsacad-crop-u4559.jpg" crc="525223642" ref="magia-de-los-académicos"/>
+    <file name="teachingmethod_academics.jpg" crc="234896613" seo="true" ref="magia-de-los-académicos"/>
+    <file name="careercounselling_acad.jpg" crc="3938814344" seo="true" ref="magia-de-los-académicos"/>
+    <file name="rem_teach_acad.jpg" crc="4285236349" seo="true" ref="magia-de-los-académicos"/>
+    <file name="car_shar_acad.jpg" crc="379245611" seo="true" ref="magia-de-los-académicos"/>
+    <file name="exp_tech_lear_acad.jpg" crc="4247710426" seo="true" ref="magia-de-los-académicos"/>
+    <file name="newsacad-crop-u4581.jpg" crc="525223642" ref="magia-de-los-académicos"/>
+    <file name="newsacad-crop-u45592.jpg" crc="181474201" ref="magia-de-los-académicos"/>
+    <file name="newsacad-crop-u45812.jpg" crc="181474201" ref="magia-de-los-académicos"/>
+    <file name="infra_btn1.jpg" crc="4046411904" seo="true" ref="our-infrastructure"/>
+    <file name="infra_btn3.jpg" crc="358869926" seo="true" ref="our-infrastructure"/>
+    <file name="infra_btn2.jpg" crc="418517068" seo="true" ref="our-infrastructure"/>
+    <file name="infra_btn5.jpg" crc="320004074" seo="true" ref="our-infrastructure"/>
+    <file name="infra_btn4.jpg" crc="502388917" seo="true" ref="our-infrastructure"/>
+    <file name="newsacad.jpg" crc="101576804" seo="true" ref="our-infrastructure"/>
+    <file name="infra_over.jpg" crc="4185581694" seo="true" ref="our-infrastructure"/>
+    <file name="infra_lib.jpg" crc="4162427540" seo="true" ref="our-infrastructure"/>
+    <file name="infra_tuck.jpg" crc="3909683178" seo="true" ref="our-infrastructure"/>
+    <file name="infra_class.jpg" crc="4236414337" seo="true" ref="our-infrastructure"/>
+    <file name="infra_itlab.jpg" crc="66705126" seo="true" ref="our-infrastructure"/>
+    <file name="newsacad171x4269.jpg" crc="4122865999" seo="true" ref="our-infrastructure"/>
+    <file name="acti_btn1.jpg" crc="4060179940" seo="true" ref="activities"/>
+    <file name="acti_btn5.jpg" crc="4136683634" seo="true" ref="activities"/>
+    <file name="acti_btn4.jpg" crc="30570694" seo="true" ref="activities"/>
+    <file name="acti_btn2.jpg" crc="4209179578" seo="true" ref="activities"/>
+    <file name="acti_btn3.jpg" crc="371910024" seo="true" ref="activities"/>
+    <file name="acti_btn6.jpg" crc="269656194" seo="true" ref="activities"/>
+    <file name="newsacti-crop-u4716.jpg" crc="319059113" ref="activities"/>
+    <file name="acti_sport.jpg" crc="649423" seo="true" ref="activities"/>
+    <file name="acti_yoga.jpg" crc="238171342" seo="true" ref="activities"/>
+    <file name="acti_art.jpg" crc="104329536" seo="true" ref="activities"/>
+    <file name="acti_kinder.jpg" crc="3895619867" seo="true" ref="activities"/>
+    <file name="acti_dance.jpg" crc="4272957280" seo="true" ref="activities"/>
+    <file name="acti_ncc.jpg" crc="3993302972" seo="true" ref="activities"/>
+    <file name="newsacti-crop-u4728.jpg" crc="319059113" ref="activities"/>
+    <file name="newsacti-crop-u47162.jpg" crc="214974254" ref="activities"/>
+    <file name="newsacti-crop-u47282.jpg" crc="214974254" ref="activities"/>
+    <file name="newsaffi-crop-u4748.jpg" crc="4021087860" ref="general-information"/>
+    <file name="geninfo.jpg" crc="180167643" seo="true" ref="general-information"/>
+    <file name="afilate.jpg" crc="507411756" seo="true" ref="general-information"/>
+    <file name="newsaffi-crop-u4764.jpg" crc="4021087860" ref="general-information"/>
+    <file name="newsaffi-crop-u47482.jpg" crc="4018425473" ref="general-information"/>
+    <file name="newsaffi-crop-u47642.jpg" crc="4018425473" ref="general-information"/>
+    <file name="designer.jpg" crc="225459604" seo="true" ref="designers"/>
+  </folder>
+  <file name="index.html" crc="3795577070" seo="true" mt="1510672582958" redirect="true"/>
+  <file name="why-choose-skpps.html" crc="3955452448" seo="true" mt="1510671607369" redirect="true"/>
+  <file name="magia-de-los-académicos.html" crc="4219028799" seo="true" mt="1510671607369" redirect="true"/>
+  <file name="our-infrastructure.html" crc="247324460" seo="true" mt="1510671607369" redirect="true"/>
+  <file name="activities.html" crc="3875783594" seo="true" mt="1510671607369" redirect="true"/>
+  <file name="independence-day-2017.html" crc="3923308851" seo="true" mt="1510671607369" redirect="true"/>
+  <file name="general-information.html" crc="4141848632" seo="true" mt="1510671607369" redirect="true"/>
+  <file name="contact-us.html" crc="3909527089" seo="true" mt="1510671607369" redirect="true"/>
+  <file name="designers.html" crc="4160978388" seo="true" mt="1510671607369" redirect="true"/>
+</manifest>
