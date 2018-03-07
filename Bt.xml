@@ -1,8 +1,9 @@
 <?xml version="1.0" ?>
 <Pakora>
 <Pyaj>
-<Price>20</Price>
+<Price set="7">20</Price>
 </Pyaj>
 <Paneer>
-<Price>40</Price>
+<Price set="8">40</Price>
+</Paneer>
 </Pakora>
